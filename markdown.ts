@@ -107,17 +107,17 @@ export class Markdown {
             return `<img src="${he.encode(this.getBadgeUrl(label, value, color))}" alt="Stock Image" />`;
           }).join(" ");
 
-          return `<li><strong>${variant.name}</strong> - ${summary}</li>`;
+          return `<strong>${variant.name}</strong><br />${summary}<br />`;
         }).join("\n");
 
         return html`
           <tr>
             <td valign="top">${image}</td>
             <td valign="top">
-            <strong><a href="${he.encode(product.url)}">${product.name}</a></strong><br />
-            <strong>${product.price}</strong> ${product.category}
+              <strong><a href="${he.encode(product.url)}">${product.name}</a></strong><br />
+              <strong>${product.price}</strong> ${product.category}
             </td>
-            <td valign="top"><ul>${variants}</ul></td>
+            <td valign="top">${variants}</td>
           </tr>
         `;
       }).join("\n")}
