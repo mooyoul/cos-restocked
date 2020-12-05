@@ -1,6 +1,7 @@
 import { AvailabilityLevel, COSClient, Product, Region, Variant } from "./cos-client";
 
 export type LookupResult = Omit<Product, "variants"> & {
+  alert: boolean;
   inStock: boolean;
   variants: (Variant & {
     regionAvailability: [Region, AvailabilityLevel][];
@@ -14,6 +15,7 @@ export class Target {
     public readonly url: string,
     public readonly variants?: string[],
     public readonly regions?: Region[],
+    public readonly alert = true,
   ) {}
 
   public async lookup(): Promise<LookupResult> {
@@ -47,6 +49,7 @@ export class Target {
     }
 
     return {
+      alert: this.alert,
       inStock,
       ...product,
       variants: selectedVariations.map((variant) => ({
