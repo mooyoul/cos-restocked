@@ -39,9 +39,9 @@ export class Markdown {
       <table>
       <thead>
       <tr>
-        <td>Image</td>
-        <td>Name</td>
-        <td>Stock</td>
+        <th>Image</th>
+        <th>Name</th>
+        <th>Stock</th>
       </tr>
       </thead>
       ${this.renderList(this.products)}
