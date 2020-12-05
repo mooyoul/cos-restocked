@@ -41,7 +41,6 @@ export class Markdown {
       <tr>
         <th>Image</th>
         <th>Name</th>
-        <th>Stock</th>
       </tr>
       </thead>
       ${this.renderList(this.products)}
@@ -72,7 +71,7 @@ export class Markdown {
       return html`
         <tbody>
         <tr>
-        <td colspan="3" align="center">(empty)</td>
+        <td colspan="2" align="center">(empty)</td>
         </tr>
         </tbody>
       `;
@@ -115,9 +114,10 @@ export class Markdown {
             <td valign="top">${image}</td>
             <td valign="top">
               <strong><a href="${he.encode(product.url)}">${product.name}</a></strong><br />
-              <strong>${product.price}</strong> ${product.category}
+              <strong>${product.price}</strong> ${product.category}<br/>
+              <br />
+              ${variants}
             </td>
-            <td valign="top">${variants}</td>
           </tr>
         `;
       }).join("\n")}
