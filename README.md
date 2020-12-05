@@ -4,7 +4,7 @@
 
 ![workflow](https://github.com/mooyoul/dynamodb-actions/workflows/workflow/badge.svg)
 ![Tracking](https://img.shields.io/badge/Total-3-brightgreen.svg)
-![Updated](https://img.shields.io/badge/Updated-Dec%205%202020%2C%206%3A38%20pm-blue.svg)
+![Updated](https://img.shields.io/badge/Updated-Dec%205%202020%2C%206%3A45%20pm-blue.svg)
 
 # 🧥 Contents
 
@@ -14,9 +14,9 @@
 <table>
 <thead>
 <tr>
-  <td>Image</td>
-  <td>Name</td>
-  <td>Stock</td>
+  <th>Image</th>
+  <th>Name</th>
+  <th>Stock</th>
 </tr>
 </thead>
 <tbody>
