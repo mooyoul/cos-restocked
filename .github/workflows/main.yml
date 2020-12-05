@@ -1,0 +1,28 @@
+name: workflow
+on:
+  schedule:
+    - cron: '0,30 * * * *' # Every 30 minutes
+  workflow_dispatch: {}
+jobs:
+  job:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v1
+      - name: Prepare
+        run: npm ci
+      - name: Run
+        run: npm start
+        env:
+          SLACK_INCOMING_WEBHOOK_URL: ${{ secrets.SLACK_INCOMING_WEBHOOK_URL }}
+      - name: Stage Changes
+        run: |
+          git add README.md
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "docs: cos-restocked update"
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
