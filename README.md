@@ -1,10 +1,10 @@
 # cos-restocked
 
-> Personal Stock Tracker for [COS Online Store](https://www.cosstores.com/)
+> Personal In-Stock Tracker for [COS Online Store](https://www.cosstores.com/)
 
 ![workflow](https://github.com/mooyoul/dynamodb-actions/workflows/workflow/badge.svg)
 ![Tracking](https://img.shields.io/badge/Total-3-brightgreen.svg)
-![Updated](https://img.shields.io/badge/Updated-Dec%205%202020%2C%2018%3A7-blue.svg)
+![Updated](https://img.shields.io/badge/Updated-Dec%205%202020%2C%206%3A25%20pm-blue.svg)
 
 # 🧥 Contents
 
@@ -34,7 +34,7 @@
   <strong><a href="https://www.cosstores.com/en_de/men/accessories/shoes/boots/product.chunky-sole-chelsea-boots-black.0784114002.html">CHUNKY SOLE CHELSEA BOOTS / BLACK</a></strong><br />
   <strong>€175</strong> Boots - men_accessories_shoes_boots
   </td>
-  <td valign="top"><ul><li><strong>40</strong> - </li> <li><strong>41</strong> - <img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /></li> <li><strong>42</strong> - </li> <li><strong>43</strong> - </li> <li><strong>44</strong> - </li> <li><strong>45</strong> - </li></ul></td>
+  <td valign="top"><ul><li><strong>41</strong> - <img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /></li></ul></td>
 </tr>
 <tr>
   <td valign="top"><img src="https://lp.cosstores.com/app001prod?set=source[/5b/40/5b40f5d3c0e7fcf627c7d120edd5d6b0fe109171.jpg],origin[dam],type[DESCRIPTIVESTILLLIFE],device[hdpi],quality[80],ImageVersion[2]&#x26;call=url[file:/product/style]" width="200" alt="Product Image" /></td>
