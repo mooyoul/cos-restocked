@@ -4,7 +4,7 @@
 
 ![workflow](https://github.com/mooyoul/dynamodb-actions/workflows/workflow/badge.svg)
 ![Tracking](https://img.shields.io/badge/Total-3-brightgreen.svg)
-![Updated](https://img.shields.io/badge/Updated-Dec%205%202020%2C%206%3A25%20pm-blue.svg)
+![Updated](https://img.shields.io/badge/Updated-Dec%205%202020%2C%206%3A27%20pm-blue.svg)
 
 # 🧥 Contents
 
@@ -26,7 +26,7 @@
   <strong><a href="https://www.cosstores.com/en_de/men/menswear/knitwear/jumpers/product.knitted-cotton-merino-jumper-blue.0911266001.html">KNITTED COTTON-MERINO JUMPER / BLUE</a></strong><br />
   <strong>€69</strong> Jumpers - men_menswear_knitwear_jumpers
   </td>
-  <td valign="top"><ul><li><strong>S</strong> - <img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /></li> <li><strong>M</strong> - <img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /></li> <li><strong>L</strong> - <img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /></li> <li><strong>XL</strong> - <img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /></li></ul></td>
+  <td valign="top"><ul><li><strong>S</strong> - <img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /></li> <li><strong>M</strong> - <img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /></li></ul></td>
 </tr>
 <tr>
   <td valign="top"><img src="https://lp.cosstores.com/app001prod?set=source[02_0784114_002_5],type[PRODUCT],device[hdpi],quality[80],ImageVersion[201908061035]&#x26;call=url[file:/product/style]" width="200" alt="Product Image" /></td>
