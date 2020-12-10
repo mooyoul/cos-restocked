@@ -53,7 +53,11 @@
 
 ![Screenshot](assets/screenshot.png)
 
-## Configuration / Deployment
+## Configuration
+
+See [config.ts](/config.ts)
+
+## Deployment
 
 See [workflow.yml](/.github/workflows/main.yml)
 
