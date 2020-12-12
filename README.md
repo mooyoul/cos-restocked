@@ -4,7 +4,7 @@
 
 ![workflow](https://github.com/mooyoul/dynamodb-actions/workflows/workflow/badge.svg)
 ![Tracking](https://img.shields.io/badge/Total-5-brightgreen.svg)
-![Updated](https://img.shields.io/badge/Updated-Dec%2012%202020%2C%209%3A17%20pm-blue.svg)
+![Updated](https://img.shields.io/badge/Updated-Dec%2012%202020%2C%209%3A48%20pm-blue.svg)
 
 # 🧥 Contents
 
@@ -54,7 +54,7 @@
     <strong><a href="https://www.cosstores.com/en_de/men/menswear/knitwear/jumpers/product.knitted-cotton-merino-jumper-blue.0911266001.html">KNITTED COTTON-MERINO JUMPER / BLUE</a></strong><br />
     <strong>€69</strong> Jumpers - men_menswear_knitwear_jumpers<br/>
     <br />
-    <strong>S</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-low%20in%20stock-yellow.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-low%20in%20stock-yellow.svg" alt="Stock Image" /><br />
+    <strong>S</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-low%20in%20stock-yellow.svg" alt="Stock Image" /><br />
     <strong>M</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-available-green.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-available-green.svg" alt="Stock Image" /><br />
   </td>
 </tr>
