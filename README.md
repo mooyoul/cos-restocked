@@ -4,12 +4,12 @@
 
 ![workflow](https://github.com/mooyoul/dynamodb-actions/workflows/workflow/badge.svg)
 ![Tracking](https://img.shields.io/badge/Total-5-brightgreen.svg)
-![Updated](https://img.shields.io/badge/Updated-Dec%2012%202020%2C%2010%3A40%20am-blue.svg)
+![Updated](https://img.shields.io/badge/Updated-Dec%2012%202020%2C%2011%3A21%20am-blue.svg)
 
 # 🧥 Contents
 
-![In Stock](https://img.shields.io/badge/In%20Stock-3-brightgreen.svg)
-![Out of Stock](https://img.shields.io/badge/Out%20of%20Stock-2-red.svg)
+![In Stock](https://img.shields.io/badge/In%20Stock-2-brightgreen.svg)
+![Out of Stock](https://img.shields.io/badge/Out%20of%20Stock-3-red.svg)
 
 <table>
 <thead>
@@ -26,7 +26,7 @@
     <strong>€39,50</strong> Knitwear - men_menswear_knitwear_all<br/>
     <br />
     <strong>S</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /><br />
-    <strong>M</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-low%20in%20stock-yellow.svg" alt="Stock Image" /><br />
+    <strong>M</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /><br />
   </td>
 </tr>
 <tr>
