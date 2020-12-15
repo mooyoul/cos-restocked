@@ -4,7 +4,7 @@
 
 ![workflow](https://github.com/mooyoul/dynamodb-actions/workflows/workflow/badge.svg)
 ![Tracking](https://img.shields.io/badge/Total-5-brightgreen.svg)
-![Updated](https://img.shields.io/badge/Updated-Dec%2016%202020%2C%202%3A45%20am-blue.svg)
+![Updated](https://img.shields.io/badge/Updated-Dec%2016%202020%2C%203%3A15%20am-blue.svg)
 
 # 🧥 Contents
 
@@ -44,7 +44,7 @@
     <strong><a href="https://www.cosstores.com/en_de/men/menswear/knitwear/product.yak-mix-roll-neck-jumper-grey.0537856016.html">YAK MIX ROLL-NECK JUMPER / GREY</a></strong><br />
     <strong>€39,50</strong> Knitwear - men_menswear_knitwear_all<br/>
     <br />
-    <strong>S</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-available-green.svg" alt="Stock Image" /><br />
+    <strong>S</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-low%20in%20stock-yellow.svg" alt="Stock Image" /><br />
     <strong>M</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /><br />
   </td>
 </tr>
