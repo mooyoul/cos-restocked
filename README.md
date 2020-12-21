@@ -4,7 +4,7 @@
 
 ![workflow](https://github.com/mooyoul/dynamodb-actions/workflows/workflow/badge.svg)
 ![Tracking](https://img.shields.io/badge/Total-5-brightgreen.svg)
-![Updated](https://img.shields.io/badge/Updated-Dec%2021%202020%2C%208%3A41%20pm-blue.svg)
+![Updated](https://img.shields.io/badge/Updated-Dec%2021%202020%2C%209%3A20%20pm-blue.svg)
 
 # 🧥 Contents
 
@@ -45,7 +45,7 @@
     <strong>€40</strong> Knitwear - men_menswear_knitwear_all<br/>
     <br />
     <strong>S</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-available-green.svg" alt="Stock Image" /><br />
-    <strong>M</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /><br />
+    <strong>M</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-low%20in%20stock-yellow.svg" alt="Stock Image" /><br />
   </td>
 </tr>
 <tr>
