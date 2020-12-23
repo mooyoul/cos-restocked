@@ -4,12 +4,12 @@
 
 ![workflow](https://github.com/mooyoul/dynamodb-actions/workflows/workflow/badge.svg)
 ![Tracking](https://img.shields.io/badge/Total-5-brightgreen.svg)
-![Updated](https://img.shields.io/badge/Updated-Dec%2024%202020%2C%202%3A44%20am-blue.svg)
+![Updated](https://img.shields.io/badge/Updated-Dec%2024%202020%2C%203%3A31%20am-blue.svg)
 
 # 🧥 Contents
 
-![In Stock](https://img.shields.io/badge/In%20Stock-3-brightgreen.svg)
-![Out of Stock](https://img.shields.io/badge/Out%20of%20Stock-2-red.svg)
+![In Stock](https://img.shields.io/badge/In%20Stock-2-brightgreen.svg)
+![Out of Stock](https://img.shields.io/badge/Out%20of%20Stock-3-red.svg)
 
 <table>
 <thead>
@@ -26,7 +26,7 @@
     <strong>€18</strong> T-shirts - men_menswear_tshirts_all<br/>
     <br />
     <strong>S</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /><br />
-    <strong>M</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-low%20in%20stock-yellow.svg" alt="Stock Image" /><br />
+    <strong>M</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /><br />
   </td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@
     <strong><a href="https://www.cosstores.com/en_de/men/menswear/knitwear/product.yak-mix-roll-neck-jumper-grey.0537856016.html">YAK MIX ROLL-NECK JUMPER / GREY</a></strong><br />
     <strong>€40</strong> Knitwear - men_menswear_knitwear_all<br/>
     <br />
-    <strong>S</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /><br />
+    <strong>S</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-low%20in%20stock-yellow.svg" alt="Stock Image" /><br />
     <strong>M</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-low%20in%20stock-yellow.svg" alt="Stock Image" /><br />
   </td>
 </tr>
