@@ -4,7 +4,7 @@
 
 ![workflow](https://github.com/mooyoul/dynamodb-actions/workflows/workflow/badge.svg)
 ![Tracking](https://img.shields.io/badge/Total-5-brightgreen.svg)
-![Updated](https://img.shields.io/badge/Updated-Jan%202%202021%2C%201%3A41%20pm-blue.svg)
+![Updated](https://img.shields.io/badge/Updated-Jan%202%202021%2C%202%3A27%20pm-blue.svg)
 
 # 🧥 Contents
 
@@ -42,7 +42,7 @@
   <td valign="top"><img src="https://lp.cosstores.com/app001prod?set=source[/92/bb/92bb1769d8d5aa2c15e1436219544037a467865d.jpg],origin[dam],type[DESCRIPTIVESTILLLIFE],device[hdpi],quality[80],ImageVersion[1]&#x26;call=url[file:/product/style]" width="200" alt="Product Image" /></td>
   <td valign="top">
     <strong><a href="https://www.cosstores.com/en_de/men/menswear/knitwear/product.yak-mix-roll-neck-jumper-grey.0537856016.html">YAK MIX ROLL-NECK JUMPER / GREY</a></strong><br />
-    <strong>€40</strong> Knitwear - men_menswear_knitwear_all<br/>
+    <strong>£ 40</strong> Knitwear - men_menswear_knitwear_all<br/>
     <br />
     <strong>S</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /><br />
     <strong>M</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /><br />
