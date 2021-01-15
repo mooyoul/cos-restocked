@@ -4,7 +4,7 @@
 
 ![workflow](https://github.com/mooyoul/dynamodb-actions/workflows/workflow/badge.svg)
 ![Tracking](https://img.shields.io/badge/Total-5-brightgreen.svg)
-![Updated](https://img.shields.io/badge/Updated-Jan%2015%202021%2C%2010%3A49%20pm-blue.svg)
+![Updated](https://img.shields.io/badge/Updated-Jan%2015%202021%2C%2011%3A38%20pm-blue.svg)
 
 # 🧥 Contents
 
@@ -41,7 +41,7 @@
 <tr>
   <td valign="top"><img src="https://lp.cosstores.com/app001prod?set=source[/92/bb/92bb1769d8d5aa2c15e1436219544037a467865d.jpg],origin[dam],type[DESCRIPTIVESTILLLIFE],device[hdpi],quality[80],ImageVersion[1]&#x26;call=url[file:/product/style]" width="200" alt="Product Image" /></td>
   <td valign="top">
-    <strong><a href="https://www.cosstores.com/en_de/men/menswear/knitwear/product.yak-mix-roll-neck-jumper-grey.0537856016.html">YAK MIX ROLL-NECK JUMPER / GREY</a></strong><br />
+    <strong><a href="https://www.cosstores.com/en_de/men/menswear/knitwear/product.yak-mix-roll-neck-jumper-grey.0537856016.html">MELANGE ROLL-NECK JUMPER / GREY</a></strong><br />
     <strong>€39,50</strong> Knitwear - men_menswear_knitwear_all<br/>
     <br />
     <strong>S</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /><br />
@@ -61,7 +61,7 @@
 <tr>
   <td valign="top"><img src="https://lp.cosstores.com/app001prod?set=source[/5b/40/5b40f5d3c0e7fcf627c7d120edd5d6b0fe109171.jpg],origin[dam],type[DESCRIPTIVESTILLLIFE],device[hdpi],quality[80],ImageVersion[2]&#x26;call=url[file:/product/style]" width="200" alt="Product Image" /></td>
   <td valign="top">
-    <strong><a href="https://www.cosstores.com/en_usd/women/womenswear/coats-and-jackets/coats/product.long-hooded-puffer-coat-yellow.0916508002.html">LONG HOODED PUFFER COAT / MUSTARD</a></strong><br />
+    <strong><a href="https://www.cosstores.com/en_usd/women/womenswear/coats-and-jackets/coats/product.long-hooded-puffer-coat-yellow.0916508002.html">LONGLINE HOODED PUFFER COAT / MUSTARD</a></strong><br />
     <strong>$142.50</strong> Coats - women_womenswear_coatsjackets_coats<br/>
     <br />
     <strong>2</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-available-green.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-low%20in%20stock-yellow.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-available-green.svg" alt="Stock Image" /><br />
