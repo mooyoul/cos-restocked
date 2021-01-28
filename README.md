@@ -3,13 +3,13 @@
 > Personal In-Stock Tracker for [COS Online Store](https://www.cosstores.com/)
 
 ![workflow](https://github.com/mooyoul/dynamodb-actions/workflows/workflow/badge.svg)
-![Tracking](https://img.shields.io/badge/Total-4-brightgreen.svg)
-![Updated](https://img.shields.io/badge/Updated-Jan%2029%202021%2C%205%3A15%20am-blue.svg)
+![Tracking](https://img.shields.io/badge/Total-5-brightgreen.svg)
+![Updated](https://img.shields.io/badge/Updated-Jan%2029%202021%2C%205%3A45%20am-blue.svg)
 
 # 🧥 Contents
 
 ![In Stock](https://img.shields.io/badge/In%20Stock-1-brightgreen.svg)
-![Out of Stock](https://img.shields.io/badge/Out%20of%20Stock-3-red.svg)
+![Out of Stock](https://img.shields.io/badge/Out%20of%20Stock-4-red.svg)
 
 <table>
 <thead>
@@ -36,6 +36,16 @@
     <strong>€45</strong> Shoes - men_accessories_shoes_all<br/>
     <br />
     <strong>41</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /><br />
+  </td>
+</tr>
+<tr>
+  <td valign="top"><img src="https://lp.cosstores.com/app001prod?set=source[/92/bb/92bb1769d8d5aa2c15e1436219544037a467865d.jpg],origin[dam],type[DESCRIPTIVESTILLLIFE],device[hdpi],quality[80],ImageVersion[1]&#x26;call=url[file:/product/style]" width="200" alt="Product Image" /></td>
+  <td valign="top">
+    <strong><a href="https://www.cosstores.com/en_de/men/menswear/knitwear/product.yak-mix-roll-neck-jumper-grey.0537856016.html">MELANGE ROLL-NECK JUMPER / GREY</a></strong><br />
+    <strong>€39,50</strong> Knitwear - men_menswear_knitwear_all<br/>
+    <br />
+    <strong>S</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /><br />
+    <strong>M</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /><br />
   </td>
 </tr>
 <tr>
