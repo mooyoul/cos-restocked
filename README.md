@@ -3,13 +3,13 @@
 > Personal In-Stock Tracker for [COS Online Store](https://www.cosstores.com/)
 
 ![workflow](https://github.com/mooyoul/dynamodb-actions/workflows/workflow/badge.svg)
-![Tracking](https://img.shields.io/badge/Total-4-brightgreen.svg)
-![Updated](https://img.shields.io/badge/Updated-Feb%2025%202021%2C%2011%3A43%20pm-blue.svg)
+![Tracking](https://img.shields.io/badge/Total-5-brightgreen.svg)
+![Updated](https://img.shields.io/badge/Updated-Feb%2026%202021%2C%2012%3A24%20am-blue.svg)
 
 # 🧥 Contents
 
 ![In Stock](https://img.shields.io/badge/In%20Stock-2-brightgreen.svg)
-![Out of Stock](https://img.shields.io/badge/Out%20of%20Stock-2-red.svg)
+![Out of Stock](https://img.shields.io/badge/Out%20of%20Stock-3-red.svg)
 
 <table>
 <thead>
@@ -30,6 +30,15 @@
   </td>
 </tr>
 <tr>
+  <td valign="top"><img src="https://lp.cosstores.com/app001prod?set=source[02_0784122_001_4],type[PRODUCT],device[hdpi],quality[80],ImageVersion[201906281145]&#x26;call=url[file:/product/style]" width="200" alt="Product Image" /></td>
+  <td valign="top">
+    <strong><a href="https://www.cosstores.com/en_de/men/accessories/shoes/product.square-toe-derby-shoes-black.0784122001.html">SQUARE-TOE DERBY SHOES / BLACK</a></strong><br />
+    <strong>€45</strong> Shoes - men_accessories_shoes_all<br/>
+    <br />
+    <strong>41</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /><br />
+  </td>
+</tr>
+<tr>
   <td valign="top"><img src="https://lp.cosstores.com/app001prod?set=source[/92/bb/92bb1769d8d5aa2c15e1436219544037a467865d.jpg],origin[dam],type[DESCRIPTIVESTILLLIFE],device[hdpi],quality[80],ImageVersion[1]&#x26;call=url[file:/product/style]" width="200" alt="Product Image" /></td>
   <td valign="top">
     <strong><a href="https://www.cosstores.com/en_de/men/menswear/knitwear/product.yak-mix-roll-neck-jumper-grey.0537856016.html">MELANGE ROLL-NECK JUMPER / GREY</a></strong><br />
@@ -46,7 +55,7 @@
     <strong>€69</strong> Jumpers - men_menswear_knitwear_jumpers<br/>
     <br />
     <strong>S</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /><br />
-    <strong>M</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-low%20in%20stock-yellow.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-low%20in%20stock-yellow.svg" alt="Stock Image" /><br />
+    <strong>M</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-available-green.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-available-green.svg" alt="Stock Image" /><br />
   </td>
 </tr>
 <tr>
