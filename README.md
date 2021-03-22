@@ -4,7 +4,7 @@
 
 ![workflow](https://github.com/mooyoul/dynamodb-actions/workflows/workflow/badge.svg)
 ![Tracking](https://img.shields.io/badge/Total-4-brightgreen.svg)
-![Updated](https://img.shields.io/badge/Updated-Mar%2023%202021%2C%203%3A31%20am-blue.svg)
+![Updated](https://img.shields.io/badge/Updated-Mar%2023%202021%2C%204%3A12%20am-blue.svg)
 
 # 🧥 Contents
 
