@@ -4,7 +4,7 @@
 
 ![workflow](https://github.com/mooyoul/dynamodb-actions/workflows/workflow/badge.svg)
 ![Tracking](https://img.shields.io/badge/Total-4-brightgreen.svg)
-![Updated](https://img.shields.io/badge/Updated-Apr%2029%202021%2C%207%3A4%20am-blue.svg)
+![Updated](https://img.shields.io/badge/Updated-Apr%2029%202021%2C%207%3A37%20am-blue.svg)
 
 # 🧥 Contents
 
@@ -61,7 +61,7 @@
     <strong>8</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /><br />
     <strong>10</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /><br />
     <strong>12</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /><br />
-    <strong>14</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /><br />
+    <strong>14</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-low%20in%20stock-yellow.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /><br />
   </td>
 </tr>
 </tbody>
