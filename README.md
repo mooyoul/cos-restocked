@@ -3,13 +3,13 @@
 > Personal In-Stock Tracker for [COS Online Store](https://www.cosstores.com/)
 
 ![workflow](https://github.com/mooyoul/dynamodb-actions/workflows/workflow/badge.svg)
-![Tracking](https://img.shields.io/badge/Total-1-brightgreen.svg)
-![Updated](https://img.shields.io/badge/Updated-Jul%2015%202021%2C%204%3A32%20pm-blue.svg)
+![Tracking](https://img.shields.io/badge/Total-2-brightgreen.svg)
+![Updated](https://img.shields.io/badge/Updated-Jul%2015%202021%2C%205%3A5%20pm-blue.svg)
 
 # 🧥 Contents
 
 ![In Stock](https://img.shields.io/badge/In%20Stock-1-brightgreen.svg)
-![Out of Stock](https://img.shields.io/badge/Out%20of%20Stock-0-red.svg)
+![Out of Stock](https://img.shields.io/badge/Out%20of%20Stock-1-red.svg)
 
 <table>
 <thead>
@@ -19,6 +19,15 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+  <td valign="top"><img src="https://lp.cosstores.com/app001prod?set=source[02_0784122_001_4],type[PRODUCT],device[hdpi],quality[80],ImageVersion[201906281145]&#x26;call=url[file:/product/style]" width="200" alt="Product Image" /></td>
+  <td valign="top">
+    <strong><a href="https://www.cosstores.com/en_de/men/accessories/shoes/product.square-toe-derby-shoes-black.0784122001.html">SQUARE-TOE DERBY SHOES / BLACK</a></strong><br />
+    <strong>€45</strong> Shoes - men_accessories_shoes_all<br/>
+    <br />
+    <strong>41</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /><br />
+  </td>
+</tr>
 <tr>
   <td valign="top"><img src="https://lp.cosstores.com/app001prod?set=source[/b4/c9/b4c98a4d15e634378b14aa112cca0623ab1061bc.jpg],origin[dam],type[DESCRIPTIVESTILLLIFE],device[hdpi],quality[80],ImageVersion[1]&#x26;call=url[file:/product/style]" width="200" alt="Product Image" /></td>
   <td valign="top">
