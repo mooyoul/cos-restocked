@@ -4,12 +4,12 @@
 
 ![workflow](https://github.com/mooyoul/dynamodb-actions/workflows/workflow/badge.svg)
 ![Tracking](https://img.shields.io/badge/Total-4-brightgreen.svg)
-![Updated](https://img.shields.io/badge/Updated-Oct%2013%202021%2C%207%3A3%20am-blue.svg)
+![Updated](https://img.shields.io/badge/Updated-Oct%2013%202021%2C%207%3A34%20am-blue.svg)
 
 # 🧥 Contents
 
-![In Stock](https://img.shields.io/badge/In%20Stock-1-brightgreen.svg)
-![Out of Stock](https://img.shields.io/badge/Out%20of%20Stock-3-red.svg)
+![In Stock](https://img.shields.io/badge/In%20Stock-0-brightgreen.svg)
+![Out of Stock](https://img.shields.io/badge/Out%20of%20Stock-4-red.svg)
 
 <table>
 <thead>
@@ -54,7 +54,7 @@
     <strong>34,50 €</strong> Jumpers - men_menswear_knitwear_jumpers<br/>
     <br />
     <strong>S</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /><br />
-    <strong>M</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-low%20in%20stock-yellow.svg" alt="Stock Image" /><br />
+    <strong>M</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /><br />
   </td>
 </tr>
 </tbody>
