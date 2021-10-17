@@ -4,7 +4,7 @@
 
 ![workflow](https://github.com/mooyoul/dynamodb-actions/workflows/workflow/badge.svg)
 ![Tracking](https://img.shields.io/badge/Total-4-brightgreen.svg)
-![Updated](https://img.shields.io/badge/Updated-Oct%2017%202021%2C%206%3A33%20pm-blue.svg)
+![Updated](https://img.shields.io/badge/Updated-Oct%2017%202021%2C%207%3A4%20pm-blue.svg)
 
 # 🧥 Contents
 
@@ -33,7 +33,7 @@
   <td valign="top"><img src="https://lp.cosstores.com/app001prod?set=source[02_0784114_002_5],type[PRODUCT],device[hdpi],quality[80],ImageVersion[201908061035]&#x26;call=url[file:/product/main]" width="200" alt="Product Image" /></td>
   <td valign="top">
     <strong><a href="https://www.cosstores.com/en_de/men/accessories/shoes/boots/product.chunky-sole-chelsea-boots-black.0784114002.html">CHUNKY SOLE CHELSEA BOOTS / BLACK</a></strong><br />
-    <strong>87,50 €</strong> Boots - men_accessories_shoes_boots<br/>
+    <strong>87,50 CHF</strong> Boots - men_accessories_shoes_boots<br/>
     <br />
     <strong>41</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /><br />
   </td>
