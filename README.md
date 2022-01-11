@@ -3,12 +3,12 @@
 > Personal In-Stock Tracker for [COS Online Store](https://www.cosstores.com/)
 
 ![workflow](https://github.com/mooyoul/dynamodb-actions/workflows/workflow/badge.svg)
-![Tracking](https://img.shields.io/badge/Total-4-brightgreen.svg)
-![Updated](https://img.shields.io/badge/Updated-Jan%2011%202022%2C%202%3A34%20pm-blue.svg)
+![Tracking](https://img.shields.io/badge/Total-3-brightgreen.svg)
+![Updated](https://img.shields.io/badge/Updated-Jan%2011%202022%2C%203%3A4%20pm-blue.svg)
 
 # 🧥 Contents
 
-![In Stock](https://img.shields.io/badge/In%20Stock-1-brightgreen.svg)
+![In Stock](https://img.shields.io/badge/In%20Stock-0-brightgreen.svg)
 ![Out of Stock](https://img.shields.io/badge/Out%20of%20Stock-3-red.svg)
 
 <table>
@@ -39,22 +39,13 @@
   </td>
 </tr>
 <tr>
-  <td valign="top"><img src="https://lp.cosstores.com/app001prod?set=source[02_0784122_001_4],type[PRODUCT],device[hdpi],quality[80],ImageVersion[201906281145]&#x26;call=url[file:/product/main]" width="200" alt="Product Image" /></td>
+  <td valign="top"><img src="https://lp.cosstores.com/app001prod?set=source[/b4/c9/b4c98a4d15e634378b14aa112cca0623ab1061bc.jpg],origin[dam],type[DESCRIPTIVESTILLLIFE],device[hdpi],quality[80],ImageVersion[1]&#x26;call=url[file:/product/main]" width="200" alt="Product Image" /></td>
   <td valign="top">
-    <strong><a href="https://www.cosstores.com/en_de/men/accessories/shoes/product.square-toe-derby-shoes-black.0784122001.html">SQUARE-TOE DERBY SHOES / BLACK</a></strong><br />
-    <strong>€ 45,00 </strong> Shoes - men_accessories_shoes_all<br/>
+    <strong><a href="https://www.cosstores.com/en_de/men/menswear/knitwear/jumpers/product.knitted-cotton-merino-jumper-blue.0911266001.html">OVERSIZED JUMPER / BLUE</a></strong><br />
+    <strong>€ 34,50 </strong> Jumpers - men_menswear_knitwear_jumpers<br/>
     <br />
-    <strong>41</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /><br />
-  </td>
-</tr>
-<tr>
-  <td valign="top"><img src="https://lp.cosstores.com/app001prod?set=source[/92/bb/92bb1769d8d5aa2c15e1436219544037a467865d.jpg],origin[dam],type[DESCRIPTIVESTILLLIFE],device[hdpi],quality[80],ImageVersion[1]&#x26;call=url[file:/product/main]" width="200" alt="Product Image" /></td>
-  <td valign="top">
-    <strong><a href="https://www.cosstores.com/en_de/men/menswear/knitwear/product.yak-mix-roll-neck-jumper-grey.0537856016.html">MELANGE TURTLENECK JUMPER / GREY</a></strong><br />
-    <strong>€ 39,50 </strong> Knitwear - men_menswear_knitwear_all<br/>
-    <br />
-    <strong>S</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-low%20in%20stock-yellow.svg" alt="Stock Image" /><br />
-    <strong>M</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-low%20in%20stock-yellow.svg" alt="Stock Image" /><br />
+    <strong>S</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /><br />
+    <strong>M</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /><br />
   </td>
 </tr>
 </tbody>
