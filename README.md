@@ -4,7 +4,7 @@
 
 ![workflow](https://github.com/mooyoul/dynamodb-actions/workflows/workflow/badge.svg)
 ![Tracking](https://img.shields.io/badge/Total-5-brightgreen.svg)
-![Updated](https://img.shields.io/badge/Updated-Mar%2020%202022%2C%208%3A34%20am-blue.svg)
+![Updated](https://img.shields.io/badge/Updated-Mar%2020%202022%2C%209%3A12%20am-blue.svg)
 
 # 🧥 Contents
 
@@ -42,7 +42,7 @@
   <td valign="top"><img src="https://lp.cosstores.com/app001prod?set=source[02_0784122_001_4],type[PRODUCT],device[hdpi],quality[80],ImageVersion[201906281145]&#x26;call=url[file:/product/main]" width="200" alt="Product Image" /></td>
   <td valign="top">
     <strong><a href="https://www.cosstores.com/en_de/men/accessories/shoes/product.square-toe-derby-shoes-black.0784122001.html">SQUARE-TOE DERBY SHOES / BLACK</a></strong><br />
-    <strong>€ 45 </strong> null - men_accessories_shoes_all<br/>
+    <strong>€ 45,00 </strong> null - men_accessories_shoes_all<br/>
     <br />
     <strong>41</strong><br /><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%BA-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-unavailable-red.svg" alt="Stock Image" /> <img src="https://img.shields.io/badge/%F0%9F%8C%8F-unavailable-red.svg" alt="Stock Image" /><br />
   </td>
